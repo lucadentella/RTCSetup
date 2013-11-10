@@ -1,0 +1,9 @@
+RTCSetup
+
+PC-Arduino application to setup an RTC (Real Time Clock) module.
+
+Project description on my blog:
+
+
+Uses RTCLib from Adafruit:
+https://github.com/adafruit/RTClib
