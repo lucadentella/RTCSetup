@@ -1,0 +1,10 @@
+C:\Users\dentellaluca\Git\RTCSetup\VisualStudio\RTCSetup\RTCSetup\bin\Debug\RTCSetup.exe
+C:\Users\dentellaluca\Git\RTCSetup\VisualStudio\RTCSetup\RTCSetup\bin\Debug\RTCSetup.pdb
+C:\Users\dentellaluca\Git\RTCSetup\VisualStudio\RTCSetup\RTCSetup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dentellaluca\Git\RTCSetup\VisualStudio\RTCSetup\RTCSetup\obj\x86\Debug\RTCSetup.Properties.Resources.resources
+C:\Users\dentellaluca\Git\RTCSetup\VisualStudio\RTCSetup\RTCSetup\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dentellaluca\Git\RTCSetup\VisualStudio\RTCSetup\RTCSetup\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dentellaluca\Git\RTCSetup\VisualStudio\RTCSetup\RTCSetup\obj\x86\Debug\RTCSetup.exe
+C:\Users\dentellaluca\Git\RTCSetup\VisualStudio\RTCSetup\RTCSetup\obj\x86\Debug\RTCSetup.pdb
+C:\Users\dentellaluca\Git\RTCSetup\VisualStudio\RTCSetup\RTCSetup\bin\Debug\RTCSetup.exe.config
+C:\Users\dentellaluca\Git\RTCSetup\VisualStudio\RTCSetup\RTCSetup\obj\x86\Debug\RTCSetup.Form1.resources
