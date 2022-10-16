@@ -2,7 +2,7 @@
 #include "RTClib.h"
 
 #define BUFFER_SIZE 20
-#define VERSION     "1.0"
+#define VERSION     "1.1"
 
 // RTC object
 RTC_DS1307 RTC;
@@ -52,6 +52,7 @@ void loop() {
       }
 
       // !T 
+      // If you want to set date time to `Year2022, Month10, Day16, 11:27:08`, send `!T16102022112708\n`
       else if(serial_buffer[0] == '!' && serial_buffer[1] == 'T') {
 
         String time_string = String(serial_buffer);
